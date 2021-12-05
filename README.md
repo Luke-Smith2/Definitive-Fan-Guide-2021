@@ -114,9 +114,10 @@ Dual ball bearing
 ##### High airflow/static pressure (Non-RGB):
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| AP181  | Dual ball bearing  | Black | Unspecified  |  |
-| AP182  | Dual ball bearing  | Black | Unspecified  |  |
-| AP183  | Dual ball bearing  | Black | 70,000 hrs MTBF @ unspecified  |  |
+| D0925C12B3AP-14 (92mm Gentle Typhoon)  | Dual ball bearing  | Black | 100,000 hrs at 35°C or 55,000 hrs at 60°C  |  |
+| NB-BlackSilent Pro 92mm  | NB-NanoSLI 2 | Black | Unspecified  |  |
+| bequiet silent wings 2 92mm  | Fluid Dynamic bearing  | Black | 300,000 hrs MTBF @ unspecified  |  |
+| ZM-SF2 92mm  | Fluid Dynamic bearing  | Black | 150,000 hrs MTBF @ unspecified  |  |
 
 
 ## 180mm Fans
@@ -126,39 +127,4 @@ Dual ball bearing
 | AP181  | Dual ball bearing  | Black | Unspecified  |  |
 | AP182  | Dual ball bearing  | Black | Unspecified  |  |
 | AP183  | Dual ball bearing  | Black | 70,000 hrs MTBF @ unspecified  |  |
-
-
-
-
-
-
-
-
-Radiator/static-pressure orientated fans:
-
-| Model | Bearing || Colour  | MTBF || Price || General consensus |
-| ------------- | ------------- || ------------- | ------------- |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-
-Airflow-orientated fans
-RGB Category: 
-
-
-
-
-Non-RGB Category:
-
-
-
-
-
-
-table:
-##### Airflow-orientated fans (RGB):
-| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
-| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
-
 
