@@ -8,7 +8,7 @@ Not complete, WIP.
 ##### Airflow-orientated fans (RGB):
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
+| Alpenföhn® 120mm Wing Boost 3 ARGB | FDB (Fluid Dynamic Bearing), Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
 | Enermax HF120 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
 | Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hrs MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
 | Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
@@ -27,6 +27,7 @@ Not complete, WIP.
 ##### Radiator/static-pressure orientated fans (RGB):
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Alpenföhn® 120mm Wing Boost 3 ARGB | FDB (Fluid Dynamic Bearing), Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
 | Noiseblocker NB Eloop ARGB 120mm  | NanoSLI bearing v2 | Black/white option | 120,000 hrs MTBF @ unspecified  |  |
 | Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
 | Wing boost 3  | Fluid Dynamic Bearing  | Black/white option | 100,000 hrs MTBF @ 25C  |  |
@@ -57,7 +58,7 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Gelid Lyra  | Dual ball bearing  | Black | 100,000 hrs @ 40C  |  |
 | Antec Prizm 140 ARGB  | Hydraulic Bearing  | Black | 40,000 hrs @ unspecified  |  |
-| Gelid Lyra  | Dual ball bearing  | Black | 100,000 hrs @ 40C  |  |
+| Alpenföhn® 140mm Wing Boost 3 ARGB  | FDB (Fluid Dynamic Bearing), Panasonic  | Black/white option | 250,000 hrs @ unspecified  |  |
 
 
 
@@ -76,6 +77,7 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | NoiseBlocker ELOOP X ARGB  | NB-NanoSLI® 2  | Black/white	option | 120,000 hrs @ Unspecified  |  |
 | Scythe Kaze Flex RGB  | Fluid Dynamic Bearing  | Black | 120,000 hrs @ Unspecified  |  |
+| Alpenföhn® 140mm Wing Boost 3 ARGB  | FDB (Fluid Dynamic Bearing), Panasonic  | Black/white option | 250,000 hrs @ unspecified  |  |
 
 
 
