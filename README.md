@@ -7,9 +7,9 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
-| Enermax HF120 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
-| Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hours MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
-| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
+| Enermax HF120 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
+| Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hrs MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
+| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
 
 ##### Airflow-orientated fans (Non-RGB):
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
@@ -17,8 +17,8 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | Scythe Slipstream DB 120mm  | Dual ball bearing  | Black | 350,000 hrs MTBF @ unspecified  | http://www.dvtests.com/scythe-slip-stream-120-db-test-and-review/ |
 | QF120 performance 120mm  | HPLN/Rifle  | White | Not specified, YMMV.  | http://www.dvtests.com/cryorig-qf120-performance-and-qf120-silent-test-and-review/ |
 | P12/P12 CO 120mm | Rifle bearing (Non-CO) / Dual ball bearing (CO)  | Black | Unspecified (Non-CO)/Unspecified (CO)  |  |
-| Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hours MTBF @ 25C  |  |
-| Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
+| Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hrs MTBF @ 25C  |  |
+| Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
 
 
 ##### Radiator/static-pressure orientated fans (RGB):
@@ -39,8 +39,8 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | Scythe Slipstream DB 120mm  | Dual ball bearing  | Black | 350,000 hrs MTBF @ unspecified  | http://www.dvtests.com/scythe-slip-stream-120-db-test-and-review/ |
 | QF120 performance 120mm  | HPLN/Rifle  | White | Not specified, YMMV.  | http://www.dvtests.com/cryorig-qf120-performance-and-qf120-silent-test-and-review/ |
 | P12/P12 CO 120mm | Rifle bearing (Non-CO) / Dual ball bearing (CO)  | Black | Unspecified (Non-CO)/Unspecified (CO)  |  |
-| Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hours MTBF @ 25C  |  |
-| Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
+| Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hrs MTBF @ 25C  |  |
+| Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
 
 
 
