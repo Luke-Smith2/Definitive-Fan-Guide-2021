@@ -54,9 +54,22 @@ Not complete, WIP.
 ##### Airflow-orientated fans (RGB):
 
 
-
-
 ##### Airflow-orientated fans (Non-RGB):
+
+
+
+##### Radiator/static-pressure orientated fans (RGB):
+
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| NoiseBlocker ELOOP X ARGB  | NB-NanoSLI® 2  | Black/white	option | 120,000 hrs @ Unspecified  |  |
+| Scythe Kaze Flex RGB  | Fluid Dynamic Bearing  | Black | 120,000 hrs @ Unspecified  |  |
+
+
+
+##### Radiator/static-pressure orientated fans (Non-RGB):
+
+
 
 
 ## 40mm Fans
