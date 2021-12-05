@@ -32,7 +32,7 @@ Not complete, WIP.
 | Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q  https://nl.hardware.info/casefans.23/enermax-squa-rgb-120mm-black.528077#testresultaten |
 | ST120  | Fluid Dynamic Bearing  | Black/white option | Not specified, YMMV.  | https://www.youtube.com/watch?v=gMBtg35yVBs  |
 | P12 PWM PST CO A-RGB | Dual ball bearing | Black | Not specified, YMMV.  | https://www.youtube.com/watch?v=W0ev38feVx4 |
-| Kaze Flex ARGB | Fluid Dynamic Bearing | Black | 120,000 hrs @ unspecified | |
+| Kaze Flex ARGB | Fluid Dynamic Bearing | Black | 120,000 hrs @ unspecified | https://www.youtube.com/watch?v=iofYNikCh3I |
 
 
 
@@ -66,7 +66,8 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Enermax UCTBA14P  | Twister G2 bearing  | Black | 160,000 hrs @ Unspecified  |  |
 | QF140 performance 140mm  | HPLN/Rifle  | White | Not specified, YMMV.  |  |
-| Kaze Flex Square 140  | Fluid Dynamic Bearings  | Grey | 120,000 hrs @ Unspecified  |  |
+| Kaze Flex Square 140  | Fluid Dynamic Bearings  | Grey | 120,000 hrs @ Unspecified  | https://www.youtube.com/watch?v=PUdsTiRmuuU |
+| TY-147A SQ  | EHFB  | White | 160,000 hrs @ Unspecified  | https://www.youtube.com/watch?v=rv1S9RhABa8  http://thermalbench.com/2016/08/11/thermalright-ty-147a-sq-140-mm-fan/4/ |
 
 
 
@@ -84,7 +85,7 @@ Not complete, WIP.
 
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| NoiseBlocker ELOOP B  | NB-NanoSLI® 2  | Black/white	option | 160,000 hrs @ Unspecified  |  |
+| NoiseBlocker ELOOP B  | NB-NanoSLI® 2  | Black/white	option | 160,000 hrs @ Unspecified  | https://thermalbench.com/2016/02/12/blacknoise-nb-eloop-b14-ps-and-b14-3-140mm-fans/ |
 
 
 
@@ -114,5 +115,5 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | AP181  | Dual ball bearing  | Black | Unspecified  |  |
 | AP182  | Dual ball bearing  | Black | Unspecified  |  |
-| AP183  | Dual ball bearing  | Black | 70,000 hrs MTBF @ unspecified  |  |
+| AP183  | Dual ball bearing  | Black | 70,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=tXsUdK05Nyw |
 
