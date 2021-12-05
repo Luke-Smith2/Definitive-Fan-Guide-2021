@@ -117,3 +117,4 @@ Not complete, WIP.
 | AP182  | Dual ball bearing  | Black | Unspecified  |  |
 | AP183  | Dual ball bearing  | Black | 70,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=tXsUdK05Nyw |
 
+Credit goes to @AuroraWolf137 for the suggestion of the addition of the Be quiet! Light wings 120mm High Speed ARGB fans
