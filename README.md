@@ -67,7 +67,7 @@ Not complete, WIP.
 | Enermax UCTBA14P  | Twister G2 bearing  | Black | 160,000 hrs @ Unspecified  |  |
 | QF140 performance 140mm  | HPLN/Rifle  | White | Not specified, YMMV.  |  |
 | Kaze Flex Square 140  | Fluid Dynamic Bearings  | Grey | 120,000 hrs @ Unspecified  | https://www.youtube.com/watch?v=PUdsTiRmuuU |
-| TY-147A SQ  | EHFB  | White | 160,000 hrs @ Unspecified  | https://www.youtube.com/watch?v=rv1S9RhABa8  http://thermalbench.com/2016/08/11/thermalright-ty-147a-sq-140-mm-fan/4/ |
+| TY-147A SQ  | EHFB  | White | Not specified, YMMV.  | https://www.youtube.com/watch?v=rv1S9RhABa8  http://thermalbench.com/2016/08/11/thermalright-ty-147a-sq-140-mm-fan/4/ |
 
 
 
