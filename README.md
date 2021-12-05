@@ -25,8 +25,8 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Noiseblock NB Eloop ARGB 120mm  | Dual ball bearing  | Black | 350,000 hrs MTBF @ unspecified  | http://www.dvtests.com/scythe-slip-stream-120-db-test-and-review/ |
-| Enermax Squa RGB  | HPLN/Rifle  | White | Not specified, YMMV.  | http://www.dvtests.com/cryorig-qf120-performance-and-qf120-silent-test-and-review/ |
-| Wing boost 3  | Fluid Dynamic Bearing  | Black/white option | 250,000 hrs MTBF @ unspecified  |  |
+| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | Not specified, YMMV.  | http://www.dvtests.com/cryorig-qf120-performance-and-qf120-silent-test-and-review/ |
+| Wing boost 3  | Fluid Dynamic Bearing  | Black/white option | 100,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
 | ST120  | Fluid Dynamic Bearing  | Black/white option | Not specified, YMMV.  |  |
 | P12 PWM PST CO A-RGB | Dual ball bearing | Black | Not specified, YMMV.  | |
 
