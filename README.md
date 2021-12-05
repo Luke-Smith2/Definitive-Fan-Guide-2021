@@ -3,11 +3,10 @@ This guide is aimed at enabling users of the public being able to traverse the c
 
 ## 120mm Fans
 
-##### Airflow-orientated fans:
+##### Airflow-orientated fans (RGB):
 | Model                       | Bearing                      | Colour                     | MTBF                       | Price                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| ------------- | ------------- || ------------- | ------------- |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
+| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  || Black/white option  | 250,000 hrs MTBF @ unspecified  |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
 
 Radiator/static-pressure orientated fans:
@@ -22,7 +21,7 @@ RGB Category:
 Alpenfohn Wing boost 3 ARGB 120mm/140mm
 Specs/review:
 https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/
-Bearing FDB, Panasonic, 250,000 hrs MTBF
+Bearing FDB, Panasonic, 250,000 hrs MTBF @ unspecified
 
 Enermax HF120 120mm
 Specs/review:
