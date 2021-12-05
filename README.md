@@ -12,7 +12,7 @@ Airflow-orientated fans:
 
 
 
-| First Header  | Second Header |
+| Model  | Bearing || Colour  | MTBF || Price || General consensus |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
