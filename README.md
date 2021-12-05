@@ -5,7 +5,7 @@ This guide is aimed at enabling users of the public being able to traverse the c
 
 Airflow-orientated fans:
 
-| Model | Bearing || Colour  | MTBF || Price || General consensus |
+| Model  | Bearing || Colour  | MTBF || Price || General consensus |
 | ------------- | ------------- || ------------- | ------------- |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
