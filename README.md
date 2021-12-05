@@ -11,13 +11,30 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hours MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
 | Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
 
-
-
-
-
-
-
 ##### Airflow-orientated fans (Non-RGB):
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Scythe Slipstream DB 120mm  | Dual ball bearing  | Black | 350,000 hrs MTBF @ unspecified  | http://www.dvtests.com/scythe-slip-stream-120-db-test-and-review/ |
+| QF120 performance 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
+| P12 120mm | Dual ball bearing  | Black/white option | 100,000 hours MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
+| TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 100,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
+| Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
+
+
+Scythe Slipstream
+
+Bearing, dual ball bearing
+
+QF120 performance
+
+Bearing, HPLN, rifle HDB
+
+P12/P14
+
+TB silence ADV
+
+Cougar Vortex
+
 
 
 ## 140mm Fans
@@ -52,20 +69,6 @@ RGB Category:
 
 
 Non-RGB Category:
-Scythe Slipstream
-
-Bearing, dual ball bearing
-
-QF120 performance
-
-Bearing, HPLN, rifle HDB
-
-P12/P14
-
-TB silence ADV
-
-Cougar Vortex
-
 
 
 Radiator/static-pressure orientated fans:
