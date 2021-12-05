@@ -1,26 +1,14 @@
 # Definitive-Fan-Guide-2021
 This guide is aimed at enabling users of the public being able to traverse the confusion of the fan market and make more informed purchasing decisions.
 
-120mm fans:
+## 120mm Fans
 
-Airflow-orientated fans:
-
-| Model  | Bearing || Colour  | MTBF || Price || General consensus |
+##### Airflow-orientated fans:
+| Model                       | Bearing                      | Colour                     | MTBF                       | Price                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | ------------- | ------------- || ------------- | ------------- |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-
-
-
-| Model  | Bearing || Colour  | MTBF || Price || General consensus |
-| ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-
-
-
-
-
 
 Radiator/static-pressure orientated fans:
 
