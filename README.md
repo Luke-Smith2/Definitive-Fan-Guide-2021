@@ -56,6 +56,9 @@ Not complete, WIP.
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Gelid Lyra  | Dual ball bearing  | Black | 100,000 hrs @ 40C  |  |
+| Antec Prizm 140 ARGB  | Hydraulic Bearing  | Black | 40,000 hrs @ unspecified  |  |
+| Gelid Lyra  | Dual ball bearing  | Black | 100,000 hrs @ 40C  |  |
+
 
 
 ##### Airflow-orientated fans (Non-RGB):
@@ -63,6 +66,7 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Enermax UCTBA14P  | Twister G2 bearing  | Black | 160,000 hrs @ Unspecified  |  |
 | QF140 performance 140mm  | HPLN/Rifle  | White | Not specified, YMMV.  |  |
+| Kaze Flex Square 140  | Fluid Dynamic Bearings  | Grey | 120,000 hrs @ Unspecified  |  |
 
 
 
