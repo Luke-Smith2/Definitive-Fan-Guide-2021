@@ -102,11 +102,21 @@ Dual ball bearing
 
 
 ## 40mm Fans
+##### High airflow/static pressure (Non-RGB):
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| NB-BlackSilent Pro 40mm  | NB-NanoSLI® 2  | Black | 100,000 hrs @ Unspecified  |  |
+| Sunon MagLev MF40202V21000UA99  | Vapo Bearing  | Black | Not specified, YMMV.  |  |
 
 
 
 ## 92mm Fans
-
+##### High airflow/static pressure (Non-RGB):
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| AP181  | Dual ball bearing  | Black | Unspecified  |  |
+| AP182  | Dual ball bearing  | Black | Unspecified  |  |
+| AP183  | Dual ball bearing  | Black | 70,000 hrs MTBF @ unspecified  |  |
 
 
 ## 180mm Fans
