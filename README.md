@@ -48,7 +48,7 @@ Not complete, WIP.
 | XPG VENTO PRO 120 (Gentle Typhoon rebrand)  | Dual ball bearing | Black | 250,000 hrs MTBF @25C / 60,000hrs MTBF @60C  |  |
 | Scythe Wondersnail  | Fluid Dynamic Bearing | Black | 120,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=ERN61VyqDGA |
 | T-30-120  | DUAL VAPO Sunon Maglev | Black/Grey | 150,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=DTsmwKKQuL0 |
-| Thermaltake TOUGHFAN  | Hydraulic Bearing Gen2 | Grey | 40,000 (?) hrs MTBF @ unspecified  | https://www.techpowerup.com/review/thermaltake-toughfan-12-and-toughfan-12-turbo-fans/ |
+| Thermaltake TOUGHFAN  | Hydraulic Bearing Gen2 | Grey | 40,000 (?) hrs MTBF @ unspecified  |  |
 
 ## 140mm Fans
 
