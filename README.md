@@ -11,7 +11,7 @@ Not complete, WIP.
 | Alpenföhn® 120mm Wing Boost 3 ARGB | FDB (Fluid Dynamic Bearing), Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
 | Enermax HF120 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
 | Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hrs MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
-| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
+| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q  https://nl.hardware.info/casefans.23/enermax-squa-rgb-120mm-black.528077#testresultaten|
 | Be quiet! Light wings 120mm High Speed ARGB | Rifle bearing  | Black | 60,000 hrs MTBF @ unspecified |  |
 
 ##### Airflow-orientated fans (Non-RGB):
@@ -29,7 +29,7 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Alpenföhn® 120mm Wing Boost 3 ARGB | FDB (Fluid Dynamic Bearing), Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
 | Noiseblocker NB Eloop ARGB 120mm  | NanoSLI bearing v2 | Black/white option | 120,000 hrs MTBF @ unspecified  |  |
-| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
+| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q  https://nl.hardware.info/casefans.23/enermax-squa-rgb-120mm-black.528077#testresultaten |
 | Wing boost 3  | Fluid Dynamic Bearing  | Black/white option | 100,000 hrs MTBF @ 25C  |  |
 | ST120  | Fluid Dynamic Bearing  | Black/white option | Not specified, YMMV.  |  |
 | P12 PWM PST CO A-RGB | Dual ball bearing | Black | Not specified, YMMV.  | |
