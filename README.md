@@ -52,6 +52,9 @@ Not complete, WIP.
 ## 140mm Fans
 
 ##### Airflow-orientated fans (RGB):
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Gelid Lyra  | Dual ball bearing  | Black | 100,000 hrs @ 40C  |  |
 
 
 ##### Airflow-orientated fans (Non-RGB):
@@ -94,7 +97,7 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | D0925C12B3AP-14 (92mm Gentle Typhoon)  | Dual ball bearing  | Black | 100,000 hrs at 35°C or 55,000 hrs at 60°C  |  |
 | NB-BlackSilent Pro 92mm  | NB-NanoSLI 2 | Black | Unspecified  |  |
-| bequiet silent wings 2 92mm  | Fluid Dynamic bearing  | Black | 300,000 hrs MTBF @ unspecified  |  |
+| bequiet silent wings 2 92mm  | Fluid Dynamic bearing  | Black | 80,000 hrs MTBF @ unspecified  |  |
 | ZM-SF2 92mm  | Fluid Dynamic bearing  | Black | 150,000 hrs MTBF @ unspecified  |  |
 
 
