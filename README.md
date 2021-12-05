@@ -62,6 +62,7 @@ Not complete, WIP.
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Enermax UCTBA14P  | Twister G2 bearing  | Black | 160,000 hrs @ Unspecified  |  |
+| QF140 performance 140mm  | HPLN/Rifle  | White | Not specified, YMMV.  |  |
 
 
 
