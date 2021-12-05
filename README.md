@@ -19,7 +19,7 @@ Not complete, WIP.
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Scythe Slipstream DB 120mm  | Dual ball bearing  | Black | 350,000 hrs MTBF @ unspecified  | http://www.dvtests.com/scythe-slip-stream-120-db-test-and-review/ |
 | QF120 performance 120mm  | HPLN/Rifle  | White | Not specified, YMMV.  | http://www.dvtests.com/cryorig-qf120-performance-and-qf120-silent-test-and-review/ |
-| P12/P12 CO 120mm | Rifle bearing (Non-CO) / Dual ball bearing (CO)  | Black | Unspecified (Non-CO)/Unspecified (CO)  |  |
+| P12/P12 CO 120mm | Rifle bearing (Non-CO) / Dual ball bearing (CO)  | Black | Unspecified (Non-CO)/Unspecified (CO)  | https://www.youtube.com/watch?v=7dAvxfDYuRU  https://www.youtube.com/watch?v=QwftVMGPOiI |
 | Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hrs MTBF @ 25C  |  |
 | Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
 
@@ -44,7 +44,7 @@ Not complete, WIP.
 | P12/P12 CO 120mm | Rifle bearing (Non-CO) / Dual ball bearing (CO)  | Black | Unspecified (Non-CO)/Unspecified (CO)  |  |
 | Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hrs MTBF @ 25C  |  |
 | Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
-| Nidec/Scythe Gentle typhoon  | Dual ball bearing | Grey | 100,000 hrs MTBF @35C / 60,000hrs MTBF @60C  |  |
+| Nidec/Scythe Gentle typhoon  | Dual ball bearing | Grey | 100,000 hrs MTBF @35C / 60,000hrs MTBF @60C  | https://www.youtube.com/watch?v=QwftVMGPOiI |
 | XPG VENTO PRO 120 (Gentle Typhoon rebrand)  | Dual ball bearing | Black | 250,000 hrs MTBF @25C / 60,000hrs MTBF @60C  |  |
 | Scythe Wondersnail  | Fluid Dynamic Bearing | Black | 120,000 hrs MTBF @ unspecified  | |
 | T-30-120  | DUAL VAPO Sunon Maglev | Black/Grey | 150,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
