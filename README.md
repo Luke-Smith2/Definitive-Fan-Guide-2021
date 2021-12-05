@@ -104,9 +104,24 @@ Dual ball bearing
 ## 40mm Fans
 
 
+
 ## 92mm Fans
 
+
+
 ## 180mm Fans
+##### High airflow/static pressure (Non-RGB):
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| AP181  | Dual ball bearing  | Black | Unspecified  |  |
+| AP182  | Dual ball bearing  | Black | Unspecified  |  |
+| AP183  | Dual ball bearing  | Black | 70,000 hrs MTBF @ unspecified  |  |
+
+
+
+
+
+
 
 
 Radiator/static-pressure orientated fans:
