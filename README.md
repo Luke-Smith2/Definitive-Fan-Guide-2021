@@ -9,11 +9,7 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
 | Enermax HF120 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
 | Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hours MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
-
-
-
-
-
+| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
 
 
 
@@ -53,12 +49,6 @@ Airflow-orientated fans
 RGB Category: 
 
 
-
-
-
-Enermax SquA 120mm
-https://www.youtube.com/watch?v=752AHNROY9Q
-Bearing, twister g1, 100,000 hours MTBF (25C)
 
 
 Non-RGB Category:
