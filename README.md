@@ -30,8 +30,8 @@ Not complete, WIP.
 | Alpenföhn® 120mm Wing Boost 3 ARGB | FDB (Fluid Dynamic Bearing), Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
 | Noiseblocker NB Eloop ARGB 120mm  | NanoSLI bearing v2 | Black/white option | 120,000 hrs MTBF @ unspecified  |  |
 | Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q  https://nl.hardware.info/casefans.23/enermax-squa-rgb-120mm-black.528077#testresultaten |
-| ST120  | Fluid Dynamic Bearing  | Black/white option | Not specified, YMMV.  |  |
-| P12 PWM PST CO A-RGB | Dual ball bearing | Black | Not specified, YMMV.  | |
+| ST120  | Fluid Dynamic Bearing  | Black/white option | Not specified, YMMV.  | https://www.youtube.com/watch?v=gMBtg35yVBs  |
+| P12 PWM PST CO A-RGB | Dual ball bearing | Black | Not specified, YMMV.  | https://www.youtube.com/watch?v=W0ev38feVx4 |
 | Kaze Flex ARGB | Fluid Dynamic Bearing | Black | 120,000 hrs @ unspecified | |
 
 
