@@ -24,11 +24,12 @@ This guide is aimed at enabling users of the public being able to traverse the c
 ##### Radiator/static-pressure orientated fans (RGB):
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Noiseblock NB Eloop ARGB 120mm  | Dual ball bearing  | Black | 350,000 hrs MTBF @ unspecified  | http://www.dvtests.com/scythe-slip-stream-120-db-test-and-review/ |
-| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
-| Wing boost 3  | Fluid Dynamic Bearing  | Black/white option | 100,000 hours MTBF @ 25C  |  |
+| Noiseblocker NB Eloop ARGB 120mm  | NanoSLI bearing v2 | Black/white option | 120,000 hrs MTBF @ unspecified  |  |
+| Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
+| Wing boost 3  | Fluid Dynamic Bearing  | Black/white option | 100,000 hrs MTBF @ 25C  |  |
 | ST120  | Fluid Dynamic Bearing  | Black/white option | Not specified, YMMV.  |  |
 | P12 PWM PST CO A-RGB | Dual ball bearing | Black | Not specified, YMMV.  | |
+| Kaze Flex ARGB | Fluid Dynamic Bearing | Black | 120,000 hrs @ unspecified | |
 
 
 
