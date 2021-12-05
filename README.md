@@ -12,6 +12,7 @@ Not complete, WIP.
 | Enermax HF120 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
 | Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hrs MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
 | Enermax SquA 120mm  | Twister G1 bearing  | Black/white option | 100,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=752AHNROY9Q |
+| Be quiet! Light wings 120mm High Speed ARGB | Rifle bearing  | Black | 60,000 hrs MTBF @ unspecified |  |
 
 ##### Airflow-orientated fans (Non-RGB):
 | Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
