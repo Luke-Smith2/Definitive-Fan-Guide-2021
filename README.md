@@ -26,9 +26,9 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Noiseblock NB Eloop ARGB 120mm  | Dual ball bearing  | Black | 350,000 hrs MTBF @ unspecified  | http://www.dvtests.com/scythe-slip-stream-120-db-test-and-review/ |
 | Enermax Squa RGB  | HPLN/Rifle  | White | Not specified, YMMV.  | http://www.dvtests.com/cryorig-qf120-performance-and-qf120-silent-test-and-review/ |
-| Wing boost 3  | Rifle bearing (Non-CO) / Dual ball bearing (CO)  | Black | Unspecified (Non-CO)/Unspecified (CO)  |  |
+| Wing boost 3  | Fluid Dynamic Bearing  | Black/white option | 250,000 hrs MTBF @ unspecified  |  |
 | ST120  | Fluid Dynamic Bearing  | Black/white option | Not specified, YMMV.  |  |
-| P12 PWM PST CO  | Dual ball bearing | Black | Not specified, YMMV.  | |
+| P12 PWM PST CO A-RGB | Dual ball bearing | Black | Not specified, YMMV.  | |
 
 
 
