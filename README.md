@@ -49,29 +49,6 @@ Not complete, WIP.
 | Scythe Wondersnail  | Fluid Dynamic Bearing | Black | 120,000 hrs MTBF @ unspecified  | |
 | T-30-120  | DUAL VAPO Sunon Maglev | Black/Grey | 150,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
 
-
-
-
-
-Radiator/static-pressure orientated fans:
-RGB Category:
-Noiseblock NB Eloop ARGB
-Enermax Squa RGB
-Wing boost 3 
-ST120
-Kaze Flex ARGB
-P12/P14 ARGB
-
-Be quiet! Light wings high-speed 9 blade:
-Bearing, hydraulic
-
-Non-RGB Category:
-
-
-
-
-
-
 ## 140mm Fans
 
 ##### Airflow-orientated fans (RGB):
