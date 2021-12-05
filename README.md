@@ -1,6 +1,8 @@
 # Definitive-Fan-Guide-2021
 This guide is aimed at enabling users of the public being able to traverse the confusion of the fan market and make more informed purchasing decisions. Reviews are not my own and they are merely linked for your convenience.
 
+Not complete, WIP.
+
 ## 120mm Fans
 
 ##### Airflow-orientated fans (RGB):
@@ -41,6 +43,10 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | P12/P12 CO 120mm | Rifle bearing (Non-CO) / Dual ball bearing (CO)  | Black | Unspecified (Non-CO)/Unspecified (CO)  |  |
 | Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hrs MTBF @ 25C  |  |
 | Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
+| Nidec/Scythe Gentle typhoon  | Dual ball bearing | Grey | 100,000 hrs MTBF @35C / 60,000hrs MTBF @60C  |  |
+| XPG VENTO PRO 120 (Gentle Typhoon rebrand)  | Dual ball bearing | Black | 250,000 hrs MTBF @25C / 60,000hrs MTBF @60C  |  |
+| Scythe Wondersnail  | Fluid Dynamic Bearing | Black | 120,000 hrs MTBF @ unspecified  | |
+| T-30-120  | DUAL VAPO Sunon Maglev | Black/Grey | 150,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
 
 
 
@@ -59,32 +65,6 @@ Be quiet! Light wings high-speed 9 blade:
 Bearing, hydraulic
 
 Non-RGB Category:
-T-30-120
-
-
-Bearing, Sunon Maglev
-
-
-
-
-P12/P14 Stock/CO/PST CO
-
-Bearing HDB/DBB
-
-Scythe wondersnail
-
-Bearing fluid dynamic bearing
-
-Nidec, XPG, Scythe Gentle typhoon
-
-Dual ball bearing
-
-
-
-
-
-
-
 
 
 
