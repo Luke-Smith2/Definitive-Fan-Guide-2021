@@ -4,6 +4,7 @@ This guide is aimed at enabling users of the public being able to traverse the c
 120mm fans:
 
 Airflow-orientated fans:
+
 | Model | Bearing || Colour  | MTBF || Price || General consensus |
 | ------------- | ------------- || ------------- | ------------- |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
@@ -11,6 +12,7 @@ Airflow-orientated fans:
 
 
 Radiator/static-pressure orientated fans:
+
 | Model | Bearing || Colour  | MTBF || Price || General consensus |
 | ------------- | ------------- || ------------- | ------------- |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
