@@ -4,10 +4,22 @@ This guide is aimed at enabling users of the public being able to traverse the c
 ## 120mm Fans
 
 ##### Airflow-orientated fans (RGB):
-| Model                       | Bearing                      | Colour                     | MTBF                       | Price                       |
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  || Black/white option  | 250,000 hrs MTBF @ unspecified  |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
+| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
+| Enermax HF120 120mm  | Hydro Dynamic bearing  | Black/white option | 50,000 hours MTBF @ 25C  | https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers) |
+| Gelid Stella 120mm  | Dual ball bearing  | Black/white option | 100,000 hours MTBF @ 40C  | https://www.youtube.com/watch?v=6YS-iIi69LY |
+
+
+
+
+
+
+
+
+
+
+
 
 ##### Airflow-orientated fans (Non-RGB):
 
@@ -22,6 +34,13 @@ This guide is aimed at enabling users of the public being able to traverse the c
 ##### Airflow-orientated fans (Non-RGB):
 
 
+## 40mm Fans
+
+
+## 92mm Fans
+
+## 180mm Fans
+
 
 Radiator/static-pressure orientated fans:
 
@@ -32,19 +51,10 @@ Radiator/static-pressure orientated fans:
 
 Airflow-orientated fans
 RGB Category: 
-Alpenfohn Wing boost 3 ARGB 120mm/140mm
-Specs/review:
-https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/
-Bearing FDB, Panasonic, 250,000 hrs MTBF @ unspecified
 
-Enermax HF120 120mm
-Specs/review:
-https://www.youtube.com/watch?v=HF0u4EUYSKo (very limited testing/numbers)
-Bearing, Hydro Dynamic bearing, 50,000 hours MTBF (25C)
 
-Gelid Stella 120mm
-https://www.youtube.com/watch?v=6YS-iIi69LY
-Bearing, dual ball bearing, 100,000 hours MTBF (40C)
+
+
 
 Enermax SquA 120mm
 https://www.youtube.com/watch?v=752AHNROY9Q
@@ -104,6 +114,11 @@ Dual ball bearing
 
 
 
-
+table:
+##### Airflow-orientated fans (RGB):
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
+| Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  | Black/white option | 250,000 hrs MTBF @ unspecified  | https://tech-legend.com/reviews/alpenfohn-wing-boost-3-argb-high-speed-triple/ |
 
 
