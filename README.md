@@ -13,9 +13,9 @@ Airflow-orientated fans:
 
 
 | Model  | Bearing || Colour  | MTBF || Price || General consensus |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
+| Content Cell  | Content Cell  || Content Cell  | Content Cell  || Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  || Content Cell  | Content Cell  || Content Cell  | Content Cell  |
 
 
 
