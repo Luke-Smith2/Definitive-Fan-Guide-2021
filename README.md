@@ -9,6 +9,20 @@ This guide is aimed at enabling users of the public being able to traverse the c
 | Alpenfohn Wing boost 3 ARGB 120mm  | FDB, Panasonic  || Black/white option  | 250,000 hrs MTBF @ unspecified  |
 | Content Cell  | Content Cell  || Content Cell  | Content Cell  |
 
+##### Airflow-orientated fans (Non-RGB):
+
+
+## 140mm Fans
+
+##### Airflow-orientated fans (RGB):
+
+
+
+
+##### Airflow-orientated fans (Non-RGB):
+
+
+
 Radiator/static-pressure orientated fans:
 
 | Model | Bearing || Colour  | MTBF || Price || General consensus |
