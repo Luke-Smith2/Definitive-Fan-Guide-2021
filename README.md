@@ -69,6 +69,11 @@ Not complete, WIP.
 
 ##### Radiator/static-pressure orientated fans (Non-RGB):
 
+| Model                       | Bearing                      | Colour                     | MTBF                       | Reviews                       |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Enermax UCTBA14P  | Twister G2 bearing  | Black | 160,000 hrs @ Unspecified  |  |
+| NoiseBlocker ELOOP B  | NB-NanoSLI® 2  | Black/white	option | 160,000 hrs @ Unspecified  |  |
+
 
 
 
