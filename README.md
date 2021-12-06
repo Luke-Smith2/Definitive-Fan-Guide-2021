@@ -45,7 +45,7 @@ Not complete, WIP.
 | Enermax TB silence ADV 120mm  | Twister G1 bearing  | Black/white option | 160,000 hrs MTBF @ 25C  |  |
 | Cougar Vortex PWM 120mm (v12hp)  | Hydro Dynamic Bearing | Orange | 300,000 hrs MTBF @ 25C  | https://www.youtube.com/watch?v=arHLD19DyIs (very limited testing/numbers) |
 | Nidec/Scythe Gentle typhoon  | Dual ball bearing | Grey | 100,000 hrs MTBF @35C / 60,000hrs MTBF @60C  | https://www.youtube.com/watch?v=QwftVMGPOiI |
-| XPG VENTO PRO 120 (Gentle Typhoon rebrand)  | Dual ball bearing | Black | 250,000 hrs MTBF @25C / 60,000hrs MTBF @60C  |  |
+| XPG VENTO PRO 120 (Gentle Typhoon rebrand)  | Dual ball bearing | Black | 250,000 hrs MTBF @25C / 60,000hrs MTBF @60C  | https://www.youtube.com/watch?v=xjbJOfZRpPE |
 | Scythe Wondersnail  | Fluid Dynamic Bearing | Black | 120,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=ERN61VyqDGA |
 | T-30-120  | DUAL VAPO Sunon Maglev | Black/Grey | 150,000 hrs MTBF @ unspecified  | https://www.youtube.com/watch?v=DTsmwKKQuL0 |
 | Thermaltake TOUGHFAN  | Hydraulic Bearing Gen2 | Grey | 40,000 (?) hrs MTBF @ unspecified  |  |
