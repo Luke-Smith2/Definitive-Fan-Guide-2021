@@ -1,7 +1,6 @@
 # Definitive-Fan-Guide-2021
 This guide is aimed at enabling users of the public being able to traverse the confusion of the fan market and make more informed purchasing decisions. Reviews are not my own and they are merely linked for your convenience.
 
-Not complete, WIP.
 
 ## 120mm Fans
 
